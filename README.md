@@ -51,8 +51,6 @@ test_program.exe
 - **Ollama**: For running open-source LLMs locally.
 - **Keploy API Fellowship**: For providing this hands-on learning opportunity.
 GitHub: [https://github.com/toughcodersir](https://github.com/toughcodersir)
-✅ Save this as README.md in your project folder.
-✅ Add, commit, and push it:
 
 
 
