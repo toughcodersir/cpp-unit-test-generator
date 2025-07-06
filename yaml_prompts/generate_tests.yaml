@@ -1,0 +1,10 @@
+instructions: |
+  Generate unit tests using Google Test for the following C++ code.
+  Requirements:
+    - Include necessary headers
+    - Cover all functions
+    - Avoid duplicate test cases
+    - Use proper test names
+    - Include edge cases
+    - Format code cleanly
+  Output only C++ code. Do not explain anything.
